@@ -1,0 +1,6 @@
+node_nodules
+Dockerfile
+.dockerignore
+redis
+docker-compose.yml
+deployment
